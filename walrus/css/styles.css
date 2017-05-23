@@ -2,10 +2,11 @@
   display: none;
 }
 
-.hi {
+.clickable {
   cursor: pointer;
   color: #0088cc;
 }
-.hi:hover {
+
+.clickable:hover {
   text-decoration: underline;
 }
