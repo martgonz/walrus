@@ -1,0 +1,11 @@
+.walrus-show {
+  display: none;
+}
+
+.hi {
+  cursor: pointer;
+  color: #0088cc;
+}
+.hi:hover {
+  text-decoration: underline;
+}
